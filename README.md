@@ -1,6 +1,6 @@
 # Applied Data Science Capstone
 
-Find the best neighborhood in Toronto to open a Farmers Market
+###The goal : Find the best neighborhood in Toronto to open a Farmers Market
 
 I want to introduce my Capstone project about the analysis of farmers market openind in Toronto. 
 
