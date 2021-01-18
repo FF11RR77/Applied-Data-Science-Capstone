@@ -6,6 +6,6 @@
 
 I want to introduce my Capstone project about the analysis of farmers market opening in Toronto. 
 
-The problems I need to solve are :  Where should I place my farmers market ?
+The problem I need to solve:  Where should I place my farmers market ?
 
 ***
